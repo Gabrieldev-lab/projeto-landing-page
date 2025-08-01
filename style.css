@@ -29,6 +29,11 @@
     margin: 50px 0px 50px 100px;
     padding: 25px;
 }
+.icones:hover{
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
 #secaovideo{
     display: grid;
     grid-auto-flow: column;
